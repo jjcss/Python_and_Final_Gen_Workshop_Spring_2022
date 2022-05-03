@@ -11,13 +11,17 @@ We hope that you all learned a few valuable skills Below you will find the Zoom 
 
 ### Starter and Full Code Folders
 #### Starter Code
-This folder contains all the starter code that we sent out to all members during the meeting. Inside the folder you'll see the completed HTML and CSS code for the guessing game, but the Javascript File only contains some comments, no code. 
+This folder contains all the starter code that we sent out to all members during the meeting. Inside the folder you'll see the CSV file that we used during the worksho. Inside the CSV is the data from all laptops/computers available, from Mac to Microsoft. Feel free to look over the file to see the other information included inside. Here is a quick skim of the content inside.
+
+<img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> <img src="https://i.imgur.com/Bzkqs5I.png" alt="drawing" width="100"/>
+<img width="500" alt="Screen Shot 2022-05-03 at 4 27 48 PM" src="https://user-images.githubusercontent.com/71786791/166560424-684d537d-c9aa-42c9-a431-9b8f2d9fdee5.png">
+
 
 #### Full Code
-This folder contains the completed HTML/CSS and Javascript code, that is needed to complete the guessing game that we did in today's session. Feel free to download the code and practice/review the code that we wrote.
+This folder contains the Computers CSV file and the completed Python code that we used to get certain data from the CSV file.
 
-### Zoom Recording
-[Zoom]()
+### Presentation Slides - Contains additional resources for Python/Data Science
+[Python/Final General Workshop](https://docs.google.com/presentation/d/1RyVjgClG7m6CqC6YKgz01ez4u98OpaS2YRqO3FnxpjQ/edit?usp=sharing)
 
-### Presentation Slides - Contains additional resources for Web Development
-[Python/Final General Workshop]()
+
+- Led by Sam R.
