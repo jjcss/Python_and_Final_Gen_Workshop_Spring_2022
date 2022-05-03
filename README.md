@@ -9,7 +9,7 @@ Thank you all for joining us for our **Python Workshop/Final General Meeting on 
 
 We hope that you all learned a few valuable skills. Below you will find presentation slides that we used, which contains additional resources on Python/how it relates to Data Science. Since this was our last workshop of the semester, we wish you all the best of luck on finals and if you're graduating, good luks on your endeavors. See you all for the Fall 2022 Semester, in which we plan on having plenty of more exciting events.
 
-### Pre requisites
+### Pre-Requisites
 Prior to getting started with using Kaggle with Python, make sure you have **Python** downloaded in your terminal, as well as **pandas and matplotlib**. Other than that, you'll be set to go.
 
 ### Starter and Full Code Folders
