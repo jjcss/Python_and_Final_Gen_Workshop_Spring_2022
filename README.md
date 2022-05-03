@@ -5,9 +5,12 @@
 <!-- <a href="https://ibb.co/Rpm6Cr3"><img src="https://i.ibb.co/8Dpxjvr/CSS-Tech-Interview-Prep.png" alt="CSS-Tech-Interview-Prep" border="0" style="width: 200px; height: 250px"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> -->
 
 # Python + Kaggle and Final General Workshop
-Thank you all for joining us for our **Python Workshop/Final General Meeting on Tuesday, May 3rd, 2022**. For anyone who missed the meeting, we talked about the basics of using Kaggle with Python, followed by us summing up our Spring Semester and saying farwells to all seniors (Execs + members). For anyone wondering, [Kaggle](https://www.kaggle.com/) allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. Specifically, for our workshop, we did a demo on manipulating the data from the CSV file, that contains certain specs about laptops, with Python. The code was relatively easy to follow, so it won't be difficult if you'd like to look at the folders in this repository.
+Thank you all for joining us for our **Python Workshop/Final General Meeting on Tuesday, May 3rd, 2022**. For anyone who missed the meeting, we talked about the basics of using Kaggle with Python, followed by us summing up our Spring Semester and saying farwells to all seniors (Execs + members). For anyone wondering, [Kaggle](https://www.kaggle.com/) allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. Specifically, for our workshop, we did a demo on manipulating the data from the CSV file, that contains certain specs about laptops, with Python. The Python code in the **Full_Code folder** will also enable you to have visuals of each  The code was relatively easy to follow, so it won't be difficult if you'd like to look at the folders in this repository.
 
 We hope that you all learned a few valuable skills. Below you will find presentation slides that we used, which contains additional resources on Python/how it relates to Data Science. Since this was our last workshop of the semester, we wish you all the best of luck on finals and if you're graduating, good luks on your endeavors. See you all for the Fall 2022 Semester, in which we plan on having plenty of more exciting events.
+
+### Pre requisites
+Prior to getting started with using Kaggle with Python, make sure you have **Python** downloaded in your terminal, as well as **pandas and matplotlib**. Other than that, you'll be set to go.
 
 ### Starter and Full Code Folders
 #### Starter Code
@@ -17,7 +20,7 @@ This folder contains all the starter code that we sent out to all members during
 
 
 #### Full Code
-This folder contains the Computers CSV file and the completed Python code that we used to get certain data from the CSV file.
+This folder contains the Computers CSV file and the completed Python code that we used to get certain data from the CSV file. Each line of code also contains comments that will help you understand what that line of code does.
 
 ### Presentation Slides - Contains additional resources for Python/Data Science
 [Python/Final General Workshop](https://docs.google.com/presentation/d/1RyVjgClG7m6CqC6YKgz01ez4u98OpaS2YRqO3FnxpjQ/edit?usp=sharing)
